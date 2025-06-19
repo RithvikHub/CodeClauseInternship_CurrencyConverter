@@ -7,8 +7,8 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
 import requests
-
-API_KEY = "619e38f2216cb880ea252399"
+#GET API KEY FROM https://www.exchangerate-api.com/
+API_KEY = " Add Your API_KEY "
 
 currency_list = ["USD", "INR", "EUR", "GBP", "JPY", "AUD", "CAD", "CNY"]
 
